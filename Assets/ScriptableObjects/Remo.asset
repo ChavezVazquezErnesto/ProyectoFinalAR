@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Remo
   m_EditorClassIdentifier: 
   ItemName: Remo
-  ItemImage: {fileID: 21300000, guid: 92d97ac957124584c9e1515b58e31291, type: 3}
-  ItemDescription: Remo en Barra
-  Item3DModel: {fileID: 1033530037564270620, guid: 4952af9692e4f5c4192ccd7ddd152a95, type: 3}
+  ItemImage: {fileID: 21300000, guid: dfbbc3c9daa9de64380c5313a309dfd5, type: 3}
+  ItemDescription: Espalda
+  Item3DModel: {fileID: 6659467310615914177, guid: 2cf16b201fa0e74459343d11bb3b72d6, type: 3}

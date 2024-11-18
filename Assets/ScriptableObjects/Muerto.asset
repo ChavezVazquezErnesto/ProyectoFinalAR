@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e74a8cda57140140ae55a6d0f4f9041, type: 3}
+  m_Name: Muerto
+  m_EditorClassIdentifier: 
+  ItemName: PesoMuerto
+  ItemImage: {fileID: 21300000, guid: 836517bb40234d14cb491cc7558a1eb6, type: 3}
+  ItemDescription: Cuadriceps
+  Item3DModel: {fileID: 958726768319194857, guid: 93211117e5b2d784388a43f3eb7666a9, type: 3}
